@@ -1,2 +1,3 @@
 # python-flask
-python-flask framework example
+Python-Flask-RESTful framework example
+flask-restful + sqlalchemy(ORM)
